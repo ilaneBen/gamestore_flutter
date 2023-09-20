@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "506910694851",
+    "project_id": "fluttertest-d896a",
+    "storage_bucket": "fluttertest-d896a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506910694851:android:1b9b1ce30d863839247176",
+        "android_client_info": {
+          "package_name": "com.example.gamestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506910694851-agu2istjthc9s1rj6d3mlu82e6p8vsjq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gamestore",
+            "certificate_hash": "5459f33a39b018ef8439dfdfd7306d7ac56dfe1c"
+          }
+        },
+        {
+          "client_id": "506910694851-bato6050dt9sumqlgmnq7co071uuncll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5KRTeccfYAS08S0IZfTj95qCAeJLePYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506910694851-bato6050dt9sumqlgmnq7co071uuncll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
