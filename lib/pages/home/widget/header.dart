@@ -1,8 +1,9 @@
-import 'package:firebase_auth/firebase_auth.dart';
+// import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 
 class HeaderSection extends StatelessWidget {
-  const HeaderSection({super.key, User? user, required pageName});
+  // const HeaderSection({super.key, User? user, required pageName});
+  const HeaderSection({ required pageName});
 
   @override
   Widget build(BuildContext context) {
