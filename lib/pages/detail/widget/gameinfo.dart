@@ -3,7 +3,7 @@ import 'package:gamestore/models/game.dart';
 import 'package:gamestore/pages/detail/widget/description.dart';
 import 'package:gamestore/pages/detail/widget/gallery.dart';
 import 'package:gamestore/pages/detail/widget/review.dart';
-import 'package:gamestore/pages/detail/widget/header.dart';
+import 'package:gamestore/pages/detail/widget/Header.dart';
 
 class GameInfo extends StatelessWidget {
   final Game game;
